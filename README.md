@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;6+%2B%20years%20of%20working%20experience;Fast%20and%20pieced%20development;Pixel-Perfect&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;6+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative;Eager%20to%20learn%20new%20techniques&center=true&width=380&height=45">
   </a>
 </p>
 
