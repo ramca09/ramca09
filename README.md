@@ -21,6 +21,7 @@ I specialize in building robust frontend and backends that do all the heavy lift
 </p>
 
 ## 𝑺𝒌𝒊𝒍𝒍 𝑺𝒆𝒕 
+<br/>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
@@ -74,6 +75,8 @@ I specialize in building robust frontend and backends that do all the heavy lift
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 </div>  
 
+<br>
+
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -85,18 +88,10 @@ I specialize in building robust frontend and backends that do all the heavy lift
 
 </td></tr></table>  
 
-<br/>  
-
-  
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=ramca09&&style=flat-square)  
-  
+![Profile views counter](https://komarev.com/ghpvc/?username=ramca09&&style=flat-square)    
 
-<br/>  
-
-
-<br />
 </details>
 </div>
