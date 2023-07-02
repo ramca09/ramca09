@@ -78,7 +78,8 @@ I specialize in building robust frontend and backends that do all the heavy lift
 <br>
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+
+<table align="center"><tr><td valign="top" width="50%">
   
 <img src="https://github-readme-stats.vercel.app/api?username=ramca09&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" align="left" style="width: 100%" />
 
@@ -86,8 +87,11 @@ I specialize in building robust frontend and backends that do all the heavy lift
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramca09&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr></table>
 
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramca09&hide_border=true" alt="ramca09" />
+</div>
 
 <br/>  
 
